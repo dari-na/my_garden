@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929582855652",
+    "project_id": "garden-800cf",
+    "storage_bucket": "garden-800cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929582855652:android:83985a9a4ce88d178a43f1",
+        "android_client_info": {
+          "package_name": "com.example.my_garden"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFgBdM5m4MYuoh76htBJcvvbFCtA4iGNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
